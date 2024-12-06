@@ -1,0 +1,10 @@
+# IDE - VSCode
+.vscode / *
+! .vscode / ayarlar.json
+! .vscode / görevler.json
+! .vscode / launch.json
+! .vscode / uzantılar.json
+#img
+*.jpg
+*.png
+
